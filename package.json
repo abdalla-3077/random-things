@@ -11,5 +11,9 @@
     "random"
   ],
   "author": "abdalla-3077",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/abdalla-3077/random-things"
+  }
 }
