@@ -1,0 +1,15 @@
+{
+  "name": "random-things",
+  "version": "0.0.1",
+  "description": "In the world of JavaScript and Node.js development, 'Random-Things' is an npm package that offers a wide range of functions for generating random elements, including numbers, letters, words, and even random colors, making it a valuable tool for developers seeking to infuse randomness and creativity into their projects.",
+  "main": "index.js", 
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "abdalla-3077",
+  "license": "MIT"
+}
