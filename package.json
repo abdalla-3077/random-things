@@ -1,6 +1,6 @@
 {
   "name": "random-things-mega",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "In the world of JavaScript and Node.js development, 'Random Things Mega' is an npm package that offers a wide range of functions for generating random elements, including numbers, letters, words, and even random colors, making it a valuable tool for developers seeking to infuse randomness and creativity into their projects.",
   "main": "index.js", 
   "typings": "index.d.ts",
