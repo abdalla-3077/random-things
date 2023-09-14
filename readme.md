@@ -23,6 +23,15 @@ __
 __
     RanToken(16) //Give You Random Token
     RanToken(Length) //Length must be numbers
+__
+    RndAccount() //Give You Random Account
+
+    { domain : "example.com" } // Random Email Domain
+    { usernameLength : 10 } // Random Email User Name Length
+    { includeSpecialChars : false } // Random Email Special Chars
+    { passwordLength : 12 } // Random Email Password Length
+__
+    RanFlag() //Give You Random Flag
 ```
 ____
 ## Contact
